@@ -1,0 +1,421 @@
+# README Source Data Files.
+
+## Figures in Manuscript.
+### Figure 1: 
+- Created with PowerPoint, no data used. 
+### Figure 2:
+- Fig2A_G2W: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- Fig2A_G2A: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- Fig2A_NG2W: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- Fig2A_NG2A: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- Fig2B_pGo: Go (=1)/ NoGo (=0) responses per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- Fig2B_pCorrect: Correct (=1)/ incorrect (=0) responses per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- Fig2C: Stay (=1)/ Switch (=0) responses per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- Fig2D: log-model evidence per subject (rows) per model (columns: M1-M5).
+- Fig2E_G2W: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- Fig2E_G2A: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- Fig2E_NG2W: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- Fig2E_NG2A: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- Fig2F_pGo: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- Fig2F_pCorrect: Correct (=1)/ incorrect (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- Fig2G: Stay (=1)/ Switch (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- Fig5H_modFreq: model frequency per model (columns: M1-M5).
+- Fig5H_PXP: protected exceedance probability per model (columns: M1-M5).
+### Figure 3:
+- Note: Data from 2 subjects (15, 25) is excluded.
+- Fig3A_vmPFC: regression coefficients for vmPFC BOLD per subject (rows) per condition (columns: Go-Rewarded, Go-NotPunished, Go-NotRewarded, Go-Punished, NoGo-Rewarded, NoGo-NotPunished, NoGo-NotRewarded, NoGo-Punished).
+- Fig3A_Striatum: regression coefficients for striatal BOLD per subject (rows) per condition (columns: Go-Rewarded, Go-NotPunished, Go-NotRewarded, Go-Punished, NoGo-Rewarded, NoGo-NotPunished, NoGo-NotRewarded, NoGo-Punished).
+- Fig3A_cope_sagittal4: regression coefficients (copes) for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- Fig3A_zstat_sagittal4: z-statistics for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- Fig3A_cope_coronal6: regression coefficients (copes) for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- Fig3A_zstat_coronal6: z-statistics for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- Fig3A_cope_axial-10: regression coefficients (copes) for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- Fig3A_zstat_axial-10: z-statistics for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- Fig3B_cope_sagittal4: regression coefficients (copes) for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- Fig3B_zstat_sagittal4: z-statistics for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- Fig3B_cope_coronal6: regression coefficients (copes) for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- Fig3B_zstat_coronal6: z-statistics for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- Fig3B_cope_axial-10: regression coefficients (copes) for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- Fig3B_zstat_axial-10: z-statistics for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- Fig3C_thresh_zstat_sagittal4: thresholded z-statistics for different cluster-forming thresholds for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- Fig3C_thresh_zstat_coronal6: thresholded z-statistics for different cluster-forming thresholds for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- Fig3C_thresh_zstat_axial-10: thresholded z-statistics for different cluster-forming thresholds for axial slice -10 (rows: x-dimension; columns: y-dimension).
+### Figure 4:
+- Note: Data from 4 subjects (11, 12, 23, 30) is excluded.
+- Fig4A: time-frequency power per frequency bin (rows) per time bin (columns).
+- Fig4B_Reward: time-frequency power per subject (rows) per time bin (columns) for condition "Reward".
+- Fig4B_NoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoReward".
+- Fig4B_NoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoPunishment".
+- Fig4B_Punishment: time-frequency power per subject (rows) per time bin (columns) for condition "Punishment".
+- Fig4B_topo: time-frequency power (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.
+- Fig4C_Reward: time-frequency power per subject (rows) per time bin (columns) for condition "Reward".
+- Fig4C_NoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoReward".
+- Fig4C_NoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoPunishment".
+- Fig4C_Punishment: time-frequency power per subject (rows) per time bin (columns) for condition "Punishment".
+- Fig4C_topo: time-frequency power (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.- Figure 5:
+- Fig4D: T-values per frequency bin (rows) per time bin (columns).
+- Fig4D_topo: T-values (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.
+- Fig4E: T-values per frequency bin (rows) per time bin (columns).
+- Fig4F: T-valuesper frequency bin (rows) per time bin (columns).
+### Figure 5:
+- Note: Data from 7 subjects (11, 12, 15, 23, 25, 26, 30) is excluded.
+- Fig5A: T-values per frequency bin (rows) per time bin (columns).
+- Fig5A_topo: T-values (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.
+- Fig5B: T-values per frequency bin (rows) per time bin (columns).
+- Fig5B_topo: T-values (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.
+- Fig5C: T-values per frequency bin (rows) per time bin (columns).
+- Fig5C_topo: mean regression coefficients (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.
+- Fig5D: percent of maximum T value per time bin (rows) per region (columns: ACC, PCC, striatum).
+- Fig5E_cope_sagittal0: T-values (copes) for sagittal slice 0 (rows: y-dimension; columns: z-dimension).
+- Fig5E_zstat_sagittal0: z-statistics for sagittal slice 0 (rows: y-dimension; columns: z-dimension).
+- Fig5F_cope_sagittal0: T-values (copes) for sagittal slice 0 (rows: y-dimension; columns: z-dimension).
+- Fig5F_zstat_sagittal0: z-statistics for sagittal slice 0 (rows: y-dimension; columns: z-dimension).
+- Fig5G_cope_sagittal0: T-values (copes) for sagittal slice 0 (rows: y-dimension; columns: z-dimension).
+- Fig5G_zstat_sagittal0: z-statistics for sagittal slice 0 (rows: y-dimension; columns: z-dimension).
+### Figure 6:
+- Note: For fMRI analyses, data from 2 subjects (15, 25) is excluded.
+- Note: For response-locked EEG analyses, no data is excluded.
+- Note: For outcome-locked EEG analyses, data from 4 subjects (11, 12, 23, 30) is excluded.
+- Fig6ALeft: time-frequency power per frequency bin (rows) per time bin (columns).
+- Fig6ARight: time-frequency power per frequency bin (rows) per time bin (columns).
+- Fig6B_GoReward: time-frequency power per subject (rows) per time bin (columns) for condition "Go-Reward".
+- Fig6B_GoNoReward: time-frequency power per subject (rows) per time bin (columns) for condition "Go-NoReward".
+- Fig6B_GoNoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "Go-NoPunishment".
+- Fig6B_GoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "Go-Punishment".
+- Fig6B_NoGoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoGo-Reward".
+- Fig6B_NoGoNoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoGo-NoReward".
+- Fig6B_NoGoNoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoGo-NoPunishment".
+- Fig6B_NoGoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoGo-Punishment".
+- Fig6CLeft_cope_coronal10: regression coefficients (copes) for coronal slice 10 (rows: y-dimension; columns: z-dimension).
+- Fig6CLeft_zstat_coronal10: z-statistics for coronal slice 10 (rows: y-dimension; columns: z-dimension).
+- Fig6CRight_cope_coronal-30: regression coefficients (copes) for coronal slice -30 (rows: y-dimension; columns: z-dimension).
+- Fig6CRight_zstat_coronal-30: z-statistics for coronal slice -30 (rows: y-dimension; columns: z-dimension).
+- Fig6DLeft_cope_coronal10: regression coefficients (copes) for coronal slice 10 (rows: y-dimension; columns: z-dimension).
+- Fig6DLeft_zstat_coronal10: z-statistics for coronal slice 10 (rows: y-dimension; columns: z-dimension).
+- Fig6DRight_cope_coronal-30: regression coefficients (copes) for coronal slice -30 (rows: y-dimension; columns: z-dimension).
+- Fig6DRight_zstat_coronal-30: z-statistics for coronal slice -30 (rows: y-dimension; columns: z-dimension).
+## Supplementary Figures.
+### Figure S01:
+- Note: Data from 7 subjects (11, 12, 15, 23, 25, 26, 30) is excluded.
+- FigS01A_G2W: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- FigS01A_G2A: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- FigS01A_NG2W: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- FigS01A_NG2A: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- FigS01B_pGo: Go (=1)/ NoGo (=0) responses per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS01B_pCorrect: Correct (=1)/ incorrect (=0) responses per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS01C: Stay (=1)/ Switch (=0) responses per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- FigS01D: log-model evidence per subject (rows) per model (columns: M1-M5).
+- FigS01E_G2W: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- FigS01E_G2A: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- FigS01E_NG2W: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- FigS01E_NG2A: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- FigS01F_pGo: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS01F_pCorrect: Correct (=1)/ incorrect (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS01G: Stay (=1)/ Switch (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- FigS01H_modFreq: model frequency per model (columns: M1-M5).
+- FigS01H_PXP: protected exceedance probability per model (columns: M1-M5).
+### Figure S02:
+- Note: Data from 7 subjects (11, 12, 15, 23, 25, 26, 30) is excluded.
+- FigS02A_vmPFC: regression coefficients for vmPFC BOLD per subject (rows) per condition (columns: Go-Rewarded, Go-NotPunished, Go-NotRewarded, Go-Punished, NoGo-Rewarded, NoGo-NotPunished, NoGo-NotRewarded, NoGo-Punished).
+- FigS02A_Striatum: regression coefficients for striatal BOLD per subject (rows) per condition (columns: Go-Rewarded, Go-NotPunished, Go-NotRewarded, Go-Punished, NoGo-Rewarded, NoGo-NotPunished, NoGo-NotRewarded, NoGo-Punished).
+- FigS02A_cope_sagittal4: regression coefficients (copes) for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- FigS02A_zstat_sagittal4: z-statistics for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- FigS02A_cope_coronal6: regression coefficients (copes) for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- FigS02A_zstat_coronal6: z-statistics for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- FigS02A_cope_axial-10: regression coefficients (copes) for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- FigS02A_zstat_axial-10: z-statistics for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- FigS02B_cope_sagittal4: regression coefficients (copes) for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- FigS02B_zstat_sagittal4: z-statistics for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- FigS02B_cope_coronal6: regression coefficients (copes) for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- FigS02B_zstat_coronal6: z-statistics for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- FigS02B_cope_axial-10: regression coefficients (copes) for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- FigS02B_zstat_axial-10: z-statistics for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- FigS02C_thresh_zstat_sagittal4: thresholded z-statistics for different cluster-forming thresholds for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- FigS02C_thresh_zstat_coronal6: thresholded z-statistics for different cluster-forming thresholds for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- FigS02C_thresh_zstat_axial-10: thresholded z-statistics for different cluster-forming thresholds for axial slice -10 (rows: x-dimension; columns: y-dimension).
+### Figure S03:
+- Note: Data from 7 subjects (11, 12, 15, 23, 25, 26, 30) is excluded.
+- FigS03A: time-frequency power per frequency bin (rows) per time bin (columns).
+- FigS03B_Reward: time-frequency power per subject (rows) per time bin (columns) for condition "Reward".
+- FigS03B_NoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoReward".
+- FigS03B_NoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoPunishment".
+- FigS03B_Punishment: time-frequency power per subject (rows) per time bin (columns) for condition "Punishment".
+- FigS03B_topo: time-frequency power (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.
+- FigS03C_Reward: time-frequency power per subject (rows) per time bin (columns) for condition "Reward".
+- FigS03C_NoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoReward".
+- FigS03C_NoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoPunishment".
+- FigS03C_Punishment: time-frequency power per subject (rows) per time bin (columns) for condition "Punishment".
+- FigS03C_topo: time-frequency power (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.- Figure 5:
+- FigS03D: T-values per frequency bin (rows) per time bin (columns).
+- FigS03D_topo: mean regression coefficients (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.
+- FigS03E: T-values per frequency bin (rows) per time bin (columns).
+- FigS03F: T-values per frequency bin (rows) per time bin (columns).
+### Figure S04:
+- Note: Data from 7 subjects (11, 12, 15, 23, 25, 26, 30) is excluded.
+- FigS04ALeft: time-frequency power per frequency bin (rows) per time bin (columns).
+- FigS04ARight: time-frequency power per frequency bin (rows) per time bin (columns).
+- FigS04B_GoReward: time-frequency power per subject (rows) per time bin (columns) for condition "Go-Reward".
+- FigS04B_GoNoReward: time-frequency power per subject (rows) per time bin (columns) for condition "Go-NoReward".
+- FigS04B_GoNoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "Go-NoPunishment".
+- FigS04B_GoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "Go-Punishment".
+- FigS04B_NoGoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoGo-Reward".
+- FigS04B_NoGoNoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoGo-NoReward".
+- FigS04B_NoGoNoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoGo-NoPunishment".
+- FigS04B_NoGoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoGo-Punishment".
+- FigS04CLeft_cope_coronal10: regression coefficients (copes) for coronal slice 10 (rows: y-dimension; columns: z-dimension).
+- FigS04CLeft_zstat_coronal10: z-statistics for coronal slice 10 (rows: y-dimension; columns: z-dimension).
+- FigS04CRight_cope_coronal-30: regression coefficients (copes) for coronal slice -30 (rows: y-dimension; columns: z-dimension).
+- FigS04CRight_zstat_coronal-30: z-statistics for coronal slice -30 (rows: y-dimension; columns: z-dimension).
+- FigS04CLeft_cope_coronal10: regression coefficients (copes) for coronal slice 10 (rows: y-dimension; columns: z-dimension).
+- FigS04DLeft_zstat_coronal10: z-statistics for coronal slice 10 (rows: y-dimension; columns: z-dimension).
+- FigS04DRight_cope_coronal-30: regression coefficients (copes) for coronal slice -30 (rows: y-dimension; columns: z-dimension).
+- FigS04DRight_zstat_coronal-30: z-statistics for coronal slice -30 (rows: y-dimension; columns: z-dimension).
+### Figure S05:
+- FigS05_trueParam: parameter values fitted to empirical data per subject (row) per parameter (columns).
+- FigS05_trueParam: mean parameter values fitted to simulated data based on true parameter values per subject (row) per parameter (columns).
+### Figure S06:
+- FigS06A_G2W: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- FigS06A_G2A: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- FigS06A_NG2W: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- FigS06A_NG2A: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- FigS06B_pGo: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS06B_pCorrect: Correct (=1)/ incorrect (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS06C: Stay (=1)/ Switch (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- FigS06D: log-model evidence per subject (rows) per model (columns: M1-M6).
+- FigS06E_G2W: Go (=1)/ NoGo (=0) responses simulated from model M6 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- FigS06E_G2A: Go (=1)/ NoGo (=0) responses simulated from model M6 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- FigS06E_NG2W: Go (=1)/ NoGo (=0) responses simulated from model M6 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- FigS06E_NG2A: Go (=1)/ NoGo (=0) responses simulated from model M6 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- FigS06F_pGo: Go (=1)/ NoGo (=0) responses simulated from model M6 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS06F_pCorrect: Correct (=1)/ incorrect (=0) responses simulated from model M6 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS06G: Stay (=1)/ Switch (=0) responses simulated from model M6 per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- FigS06H_modFreq: model frequency per model (columns: M1-M6).
+- FigS06H_PXP: protected exceedance probability per model (columns: M1-M6).
+### Figure S07:
+- FigS07_11_G2W: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- FigS07_11_G2A: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- FigS07_11_NG2W: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- FigS07_11_NG2A: Go (=1)/ NoGo (=0) responses per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- FigS07_12_G2W: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- FigS07_12_G2A: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- FigS07_12_NG2W: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- FigS07_12_NG2A: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- FigS07_13_G2W: Go (=1)/ NoGo (=0) responses simulated from model M7 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- FigS07_13_G2A: Go (=1)/ NoGo (=0) responses simulated from model M7 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- FigS07_13_NG2W: Go (=1)/ NoGo (=0) responses simulated from model M7 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- FigS07_13_NG2A: Go (=1)/ NoGo (=0) responses simulated from model M7 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- FigS07_14_G2W: Go (=1)/ NoGo (=0) responses simulated from model M8 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- FigS07_14_G2A: Go (=1)/ NoGo (=0) responses simulated from model M8 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- FigS07_14_NG2W: Go (=1)/ NoGo (=0) responses simulated from model M8 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- FigS07_14_NG2A: Go (=1)/ NoGo (=0) responses simulated from model M8 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- FigS07_15_G2W: Go (=1)/ NoGo (=0) responses simulated from model M9 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Win condition.
+- FigS07_15_G2A: Go (=1)/ NoGo (=0) responses simulated from model M9 per subject (rows) per cue repetition (columns). Averaged over the four cues within the Go-to-Avoid condition.
+- FigS07_15_NG2W: Go (=1)/ NoGo (=0) responses simulated from model M9 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Win condition.
+- FigS07_15_NG2A: Go (=1)/ NoGo (=0) responses simulated from model M9 per subject (rows) per cue repetition (columns). Averaged over the four cues within the NoGo-to-Avoid condition.
+- FigS07_21_pGo: Go (=1)/ NoGo (=0) responses per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_21_pCorrect: Correct (=1)/ incorrect (=0) responses per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_22_pGo: Go (=1)/ NoGo (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_22_pCorrect: Correct (=1)/ incorrect (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_23_pGo: Go (=1)/ NoGo (=0) responses simulated from model M7 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_23_pCorrect: Correct (=1)/ incorrect (=0) responses simulated from model M7 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_24_pGo: Go (=1)/ NoGo (=0) responses simulated from model M8 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_24_pCorrect: Correct (=1)/ incorrect (=0) responses simulated from model M8 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_25_pGo: Go (=1)/ NoGo (=0) responses simulated from model M9 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_25_pCorrect: Correct (=1)/ incorrect (=0) responses simulated from model M9 per subject (rows) per condition (columns: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid), averaged over cues within each condition and over cue repetitions. 
+- FigS07_31: Stay (=1)/ Switch (=0) responses per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- FigS07_32: Stay (=1)/ Switch (=0) responses simulated from model M5 per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- FigS07_33: Stay (=1)/ Switch (=0) responses simulated from model M7 per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- FigS07_34: Stay (=1)/ Switch (=0) responses simulated from model M8 per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- FigS07_35: Stay (=1)/ Switch (=0) responses simulated from model M9 per subject (rows) per condition (columns: Go-Rewarded, Go-Punished, NoGo-Rewarded, NoGo-Punished, Go-NotPunished, Go-NotRewarded, NoGo-NotPunished, NoGo-NotRewarded), averaged over cues within each condition and over cue repetitions.
+- FigS07_41: log-model evidence per subject (rows) per model (columns: M5 and M7-M9).
+- FigS07_42_modFreq: model frequency per model (columns: M5 and M7-M9).
+- FigS07_42_PXP: protected exceedance probability per model (columns: M5 and M7-M9).
+### Figure S08:
+- Note: Data from 2 subjects (15, 25) is excluded.
+- FigS08A_thresh_zstat_sagittal4: thresholded z-statistics for different cluster-forming thresholds for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- FigS08A_thresh_zstat_coronal6: thresholded z-statistics for different cluster-forming thresholds for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- FigS08A_thresh_zstat_axial-10: thresholded z-statistics for different cluster-forming thresholds for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- FigS08B_thresh_zstat_sagittal4: thresholded z-statistics for different cluster-forming thresholds for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- FigS08B_thresh_zstat_coronal6: thresholded z-statistics for different cluster-forming thresholds for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- FigS08B_thresh_zstat_axial-10: thresholded z-statistics for different cluster-forming thresholds for axial slice -10 (rows: x-dimension; columns: y-dimension).
+- FigS08C_thresh_zstat_sagittal4: thresholded z-statistics for different cluster-forming thresholds for sagittal slice 4 (rows: y-dimension; columns: z-dimension).
+- FigS08C_thresh_zstat_coronal6: thresholded z-statistics for different cluster-forming thresholds for coronal slice 6 (rows: x-dimension; columns: z-dimension).
+- FigS08C_thresh_zstat_axial-10: thresholded z-statistics for different cluster-forming thresholds for axial slice -10 (rows: x-dimension; columns: y-dimension).
+### Figure S09:
+- FigS09A_PE_STD: Standard prediction errors for selected subject per condition instance (row) per condition (colums: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid) for selected subject.
+- FigS09A_PE_BIAS: Biased prediction errors for selected subject per condition instance (row) per condition (colums: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid) for selected subject.
+- FigS09B_PE_STD: Standard prediction errors for selected subject per condition instance (row) per condition (colums: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid) for selected subject.
+- FigS09B_PE_DIF: Difference between biased and standard prediction errors for selected subject per condition instance (row) per condition (colums: Go-to-Win, Go-to-Avoid, NoGo-to-Win, NoGo-to-Avoid) for selected subject.
+### Figure S10:
+- FigS10A: Prediction errors across trials (rows) and conditions (columns: PE_STD, PE_BIAS) for selected subject.
+- FigS10B: Prediction errors across trials (rows) and conditions (columns: PE_STD, PE_BIAS) for selected subject.
+- FigS10C: Prediction errors across trials (rows) and conditions (columns: PE_STD, PE_DIF) for selected subject.
+- FigS10D: Prediction errors across trials (rows) and conditions (columns: PE_STD, PE_DIF) for selected subject.
+### Figure S11:
+- FigS11A_sagittal0: binary mask for sagittal slice 0 (rows: y-dimension; columns: z-dimension).
+- FigS11A_coronal42: binary mask for coronal slice 42 (rows: x-dimension; columns: z-dimension).
+- FigS11A_axial-8: binary mask for axial slice -8 (rows: x-dimension; columns: y-dimension).
+- FigS11B_sagittal10: binary mask for sagittal slice 10 (rows: y-dimension; columns: z-dimension).
+- FigS11B_coronal12: binary mask for coronal slice 12 (rows: x-dimension; columns: z-dimension).
+- FigS11B_axial-8: binary mask for axial slice -8 (rows: x-dimension; columns: y-dimension).
+- FigS11C_sagittal10: binary mask for sagittal slice 10 (rows: y-dimension; columns: z-dimension).
+- FigS11C_coronal46: binary mask for coronal slice 46 (rows: x-dimension; columns: z-dimension).
+- FigS11C_axial8: binary mask for axial slice 8 (rows: x-dimension; columns: y-dimension).
+- FigS11D_sagitta1l0: binary mask for sagittal slice 10 (rows: y-dimension; columns: z-dimension).
+- FigS11D_coronal12: binary mask for coronal slice 12 (rows: x-dimension; columns: z-dimension).
+- FigS11D_axial0: binary mask for axial slice 0 (rows: x-dimension; columns: y-dimension).
+### Figure S12:
+- FigS12A_sagittal0: binary mask for sagittal slice 0 (rows: y-dimension; columns: z-dimension).
+- FigS12A_coronal18: binary mask for coronal slice 18 (rows: x-dimension; columns: z-dimension).
+- FigS12A_axial26: binary mask for axial slice 26 (rows: x-dimension; columns: y-dimension).
+- FigS12B_sagittal-2: binary mask for sagittal slice -2 (rows: y-dimension; columns: z-dimension).
+- FigS12B_coronal1-26: binary mask for coronal slice -26 (rows: x-dimension; columns: z-dimension).
+- FigS12B_axial38: binary mask for axial slice 38 (rows: x-dimension; columns: y-dimension).### 
+- FigS12C_sagittal-50: binary mask for sagittal slice -50 (rows: y-dimension; columns: z-dimension).
+- FigS12C_coronal-26: binary mask for coronal slice -26 (rows: x-dimension; columns: z-dimension).
+- FigS12A_axial42: binary mask for axial slice 42 (rows: x-dimension; columns: y-dimension).### 
+- FigS12D_sagittal-50: binary mask for sagittal slice -50 (rows: y-dimension; columns: z-dimension).
+- FigS12D_coronal-52: binary mask for coronal slice -52 (rows: x-dimension; columns: z-dimension).
+- FigS12D_axial-16: binary mask for axial slice -16 (rows: x-dimension; columns: y-dimension).### 
+- FigS12E_sagittal22: binary mask for sagittal slice 22 (rows: y-dimension; columns: z-dimension).
+- FigS12E_coronal-82: binary mask for coronal slice -82 (rows: x-dimension; columns: z-dimension).
+- FigS12E_axial-14: binary mask for axial slice -14 (rows: x-dimension; columns: y-dimension).### 
+### Figure S13:
+- Note: Data from 4 subjects (11, 12, 23, 30) is excluded.
+- FigS13A: time-frequency power per frequency bin (rows) per time bin (columns).
+- FigS13B_Reward: time-frequency power per subject (rows) per time bin (columns) for condition "Reward".
+- FigS13B_NoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoReward".
+- FigS13B_NoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoPunishment".
+- FigS13B_Punishment: time-frequency power per subject (rows) per time bin (columns) for condition "Punishment".
+- FigS13B_topo: time-frequency power (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.
+- FigS13C_Reward: time-frequency power per subject (rows) per time bin (columns) for condition "Reward".
+- FigS13C_NoReward: time-frequency power per subject (rows) per time bin (columns) for condition "NoReward".
+- FigS13C_NoPunishment: time-frequency power per subject (rows) per time bin (columns) for condition "NoPunishment".
+- FigS13C_Punishment: time-frequency power per subject (rows) per time bin (columns) for condition "Punishment".
+- FigS13C_topo: time-frequency power (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.- Figure 5:
+- FigS13D: T-values per frequency bin (rows) per time bin (columns).
+- FigS13D_topo: mean regression coefficients (2nd column) per channel (1st column) averaged over selected time bins and frequency bins.
+- FigS13E: T-values per frequency bin (rows) per time bin (columns).
+- FigS13F: T-values per frequency bin (rows) per time bin (columns).
+### Figure S14:
+- Note: Data from 4 subjects (11, 12, 23, 30) is excluded.
+- FigS14A_Favorable: EEG voltage per subject (rows) per time point (columns) for condition "Favorable".
+- FigS14A_Unfavorable: EEG voltage per subject (rows) per time point (columns) for condition "Unfavorable".
+- FigS14B_Favorable: EEG voltage per subject (rows) per time point (columns) for condition "Favorable".
+- FigS14B_Unfavorable: EEG voltage per subject (rows) per time point (columns) for condition "Unfavorable".
+- FigS14C: EEG voltage per channel (rows) per time bin (columns) averaged within each time bin.
+- FigS14D_Go: EEG voltage per subject (rows) per time point (columns) for condition "Go".
+- FigS14D_NoGo: EEG voltage per subject (rows) per time point (columns) for condition "NoGo".
+- FigS14E_Go: EEG voltage per subject (rows) per time point (columns) for condition "Go".
+- FigS14E_NoGo: EEG voltage per subject (rows) per time point (columns) for condition "NoGo".
+- FigS14F: EEG voltage per channel (rows) per time bin (columns) averaged within each time bin.
+### Figure S15:
+- Note: Data from 4 subjects (11, 12, 23, 30) is excluded.
+- FigS15: EEG voltage per time point (rows) per conditions (columns: GoReward, GoNoReward, GoNoPunishment, GoPunishment, NoGoReward, NoGoNoReward, NoGoNoPunishment, NoGoPunishment).
+### Figure S16:
+- Note: Data from 4 subjects (11, 12, 23, 30) is excluded.
+- FigS16A: T-values for regression coefficients of PE_BIAS per time point (rows).
+- FigS16A_topo: T-values for regression coefficients of PE_BIAS per channel (rows) per time bin (columns) averaged within time bins.
+- FigS16B: T-values for regression coefficients of PE_STD per time point (rows).
+- FigS16B_topo: T-values for regression coefficients of PE_STD per channel (rows) per time bin (columns) averaged within time bins.
+- FigS16C: T-values for regression coefficients of PE_DIF per time point (rows).
+- FigS16C_topo: T-values for regression coefficients of PE_DIF per channel (rows) per time bin (columns) averaged within time bins.
+### Figure S17:
+- Fig117B: raw BOLD time course per volume (rows) per region (columns: striatum, ACC, left motor cortex, pgACC, PCC, left ITG, V1).
+- FigS17C_HRF: Shape of the HRF at each time point (rows).
+- Fig117C_bottom: HRF amplitudes per region (rows: striatum, ACC, left motor cortex, pgACC, PCC, left ITG, V1) per trial (columns).
+- Fig117D: HRF amplitude per trials (rows) per region (columns: striatum, ACC, left motor cortex, pgACC, PCC, left ITG, V1).
+- FigS17E_trial1: Time-frequency power per frequency bin (rows) per time bin (columns) for subject 1, trial 1.
+- FigS17E_trial2: Time-frequency power per frequency bin (rows) per time bin (columns) for subject 1, trial 2.
+- FigS17E_trial3: Time-frequency power per frequency bin (rows) per time bin (columns) for subject 1, trial 3.
+- FigS17E_trial4: Time-frequency power per frequency bin (rows) per time bin (columns) for subject 1, trial 4.
+- FigS17E_trial5: Time-frequency power per frequency bin (rows) per time bin (columns) for subject 1, trial 5.
+- FigS17F_sub1: Regression coefficients per frequency bin (rows) per time bin (columns) for subject 1.
+- FigS17F_sub2: Regression coefficients per frequency bin (rows) per time bin (columns) for subject 2.
+- FigS17F_sub3: Regression coefficients per frequency bin (rows) per time bin (columns) for subject 3.
+- FigS17F: T-values per frequency bin (rows) per time bin (columns) across subjects.
+### Figure S18:
+- FigS18_bottom_theta_chanAF3: mask weights per time bin (rows) per frequency bin (columns) for channel AF3.
+- FigS18_bottom_theta_chanAF4: mask weights per time bin (rows) per frequency bin (columns) for channel AF4.
+- FigS18_bottom_theta_chanAF7: mask weights per time bin (rows) per frequency bin (columns) for channel AF7.
+- FigS18_bottom_theta_chanAF8: mask weights per time bin (rows) per frequency bin (columns) for channel AF8.
+- FigS18_bottom_theta_chanF1: mask weights per time bin (rows) per frequency bin (columns) for channel F1.
+- FigS18_bottom_theta_chanF2: mask weights per time bin (rows) per frequency bin (columns) for channel F2.
+- FigS18_bottom_theta_chanF3: mask weights per time bin (rows) per frequency bin (columns) for channel F3.
+- FigS18_bottom_theta_chanF4: mask weights per time bin (rows) per frequency bin (columns) for channel F4.
+- FigS18_bottom_theta_chanF5: mask weights per time bin (rows) per frequency bin (columns) for channel F5.
+- FigS18_bottom_theta_chanF6: mask weights per time bin (rows) per frequency bin (columns) for channel F6.
+- FigS18_bottom_theta_chanF7: mask weights per time bin (rows) per frequency bin (columns) for channel F7.
+- FigS18_bottom_theta_chanF8: mask weights per time bin (rows) per frequency bin (columns) for channel F8.
+- FigS18_bottom_theta_chanFC1: mask weights per time bin (rows) per frequency bin (columns) for channel FC1.
+- FigS18_bottom_theta_chanFC2: mask weights per time bin (rows) per frequency bin (columns) for channel FC2.
+- FigS18_bottom_theta_chanFC3: mask weights per time bin (rows) per frequency bin (columns) for channel FC3.
+- FigS18_bottom_theta_chanFC4: mask weights per time bin (rows) per frequency bin (columns) for channel FC4.
+- FigS18_bottom_theta_chanFC5: mask weights per time bin (rows) per frequency bin (columns) for channel FC5.
+- FigS18_bottom_theta_chanFC6: mask weights per time bin (rows) per frequency bin (columns) for channel FC6.
+- FigS18_bottom_theta_chanFCz: mask weights per time bin (rows) per frequency bin (columns) for channel FCz.
+- FigS18_bottom_theta_chanFp1: mask weights per time bin (rows) per frequency bin (columns) for channel Fp1.
+- FigS18_bottom_theta_chanFp2: mask weights per time bin (rows) per frequency bin (columns) for channel Fp2.
+- FigS18_bottom_theta_chanFpz: mask weights per time bin (rows) per frequency bin (columns) for channel Fpz.
+- FigS18_bottom_theta_chanFz: mask weights per time bin (rows) per frequency bin (columns) for channel Fz.
+- FigS18_bottom_beta_chanCz: mask weights per time bin (rows) per frequency bin (columns) for channel Cz.
+- FigS18_bottom_beta_chanFCz: mask weights per time bin (rows) per frequency bin (columns) for channel FCz.
+- FigS18_bottom_beta_chanFz: mask weights per time bin (rows) per frequency bin (columns) for channel Fz.
+- FigS18B_chanCz_trial2: Time-frequency power per frequency bin (rows) per time bin (columns) for channel Cz, trial 1. 
+- FigS18B_chanCz_trial2: Time-frequency power per frequency bin (rows) per time bin (columns) for channel Cz, trial 2. 
+- FigS18B_chanFCz_trial2: Time-frequency power per frequency bin (rows) per time bin (columns) for channel FCz, trial 1. 
+- FigS18B_chanFCz_trial2: Time-frequency power per frequency bin (rows) per time bin (columns) for channel FCz, trial 2. 
+- FigS18C: Time-frequency power per trial (rows). 
+### Figure S19:
+- Note: Data from 7 subjects (11, 12, 15, 23, 25, 26, 30) is excluded.
+- FigS19A: T-values per frequency bin (rows) per time bin (columns).
+- FigS19B: T-values per frequency bin (rows) per time bin (columns).
+- FigS19C: T-values per frequency bin (rows) per time bin (columns).
+- FigS19D: T-values per frequency bin (rows) per time bin (columns).
+- FigS19E: T-values per channel (rows) per time bin (columns) averaged within each time bin.
+- FigS19F: T-values per channel (rows) per time bin (columns) averaged within each time bin.
+### Figure S20:
+- Note: Data from 7 subjects (11, 12, 15, 23, 25, 26, 30) is excluded.
+- FigS20A: T values per time bin (rows) per region (columns: striatum, dACC, pgACC, PCC).
+- FigS20B: T values per time bin (rows) per region (columns: Left M1, Left ITG, V1).
+- FigS20C_High: EEG voltage per subject (rows) per time bin (columns) for condition "high BOLD".
+- FigS20C_Low: EEG voltage per subject (rows) per time bin (columns) for condition "low BOLD".
+- FigS20D_High: EEG voltage per subject (rows) per time bin (columns) for condition "high BOLD".
+- FigS20D_Low: EEG voltage per subject (rows) per time bin (columns) for condition "low BOLD".
+- FigS20E_High: EEG voltage per subject (rows) per time bin (columns) for condition "high BOLD".
+- FigS20E_Low: EEG voltage per subject (rows) per time bin (columns) for condition "low BOLD".
+- FigS20F: T-values per channel (rows) per time bin (columns) averaged within each time bin.
+- FigS20G: T-values per channel (rows) per time bin (columns) averaged within each time bin.
+- FigS20H: T-values per channel (rows) per time bin (columns) averaged within each time bin.
+- FigS20I: T-values per channel (rows) per time bin (columns) averaged within each time bin.
+- FigS20J: T-values per channel (rows) per time bin (columns) averaged within each time bin.
+- FigS20K: T-values per channel (rows) per time bin (columns) averaged within each time bin.
+- FigS20L: T-values per channel (rows) per time bin (columns) averaged within each time bin.
+### Figure S21:
+- Note: For fMRI analyses, data from 2 subjects (15, 25) is excluded.
+- Note: For EEG analyses, data from 4 subjects (11, 12, 23, 30) is excluded.
+- FigS21A: values per trial (rows) per variable (subject number, block number, action, EEG time-frequency power).
+- FigS21D: Go (=1)/ NoGo (=0) responses per subject (rows) per trial (columns).
+- FigS21E_GoPositive: BOLD signal per subject (rows) per time point (columns) for condition "Go-Positive".
+- FigS21E_GoNegative: BOLD signal per subject (rows) per time point (columns) for condition "Go-Negative".
+- FigS21E_NoGoPositive: BOLD signal per subject (rows) per time point (columns) for condition "NoGo-Positive".
+- FigS21E_NoGoNegative: BOLD signal per subject (rows) per time point (columns) for condition "NoGo-Negative".
+- FigS21F_GoPositiveNextGo: BOLD signal per subject (rows) per time point (columns) for condition "Go-Positive-NextGo".
+- FigS21F_GoNegativeNextGo: BOLD signal per subject (rows) per time point (columns) for condition "Go-Negative-NextGo".
+- FigS21F_NoGoPositiveNextGo: BOLD signal per subject (rows) per time point (columns) for condition "NoGo-Positive-NextGo".
+- FigS21F_NoGoNegativeNextGo: BOLD signal per subject (rows) per time point (columns) for condition "NoGo-Negative-NextGo".
+- FigS21F_GoPositiveNextNoGo: BOLD signal per subject (rows) per time point (columns) for condition "Go-Positive-NextNoGo".
+- FigS21F_GoNegativeNextNoGo: BOLD signal per subject (rows) per time point (columns) for condition "Go-Negative-NextNoGo".
+- FigS21F_NoGoPositiveNextNoGo: BOLD signal per subject (rows) per time point (columns) for condition "NoGo-Positive-NextNoGo".
+- FigS21F_NoGoNegativeNextNoGo: BOLD signal per subject (rows) per time point (columns) for condition "NoGo-Negative-NextNoGo".
+### Figure S22:
+- Note: For fMRI analyses, data from 2 subjects (15, 25) is excluded.
+- Note: For EEG analyses, data from 4 subjects (11, 12, 23, 30) is excluded.
+- FigS22A: values per trial (rows) per variable (subject number, percentile, BOLD HRF amplitude).
+- FigS22B: values per trial (rows) per variable (subject number, percentile, BOLD HRF amplitude).
+- FigS22C: values per trial (rows) per variable (subject number, percentile, BOLD HRF amplitude).
+- FigS22D: values per trial (rows) per variable (subject number, percentile, EEG time-frequency power).
+- FigS22E: values per trial (rows) per variable (subject number, percentile, EEG time-frequency power).
+- FigS22F: values per trial (rows) per variable (subject number, percentile, EEG time-frequency power).
+
+# END OF FILE.
